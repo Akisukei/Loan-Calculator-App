@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Loan Calculator App</string>
+
+    <string name="loan_msg">Loan Amount</string>
+    <string name="termLoan_msg">Term of loan (years)</string>
+    <string name="yearlyInterest_msg">Yearly Interest Rate</string>
+
+    <string name="loan_amount">0.0</string>
+    <string name="term_loan">0</string>
+    <string name="yearly_interest">0.0</string>
+
+    <string name="calcBtn_msg">Calculate</string>
+    <string name="clearBtn_msg">Clear</string>
+
+    <string name="result_msg">Result</string>
+
+    <string name="monthlyPay_msg">Monthly Payment</string>
+    <string name="totalPay_msg">Total Payment</string>
+    <string name="totalInterest_msg">Total Interest</string>
+
+    <string name="monthly_payment">0.0</string>
+    <string name="total_payment">0.0</string>
+    <string name="total_interest">0.0</string>
+
+    <string name="error_msg">Invalid Input</string>
+</resources>
